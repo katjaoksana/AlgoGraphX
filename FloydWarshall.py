@@ -1,4 +1,4 @@
-import MatrizAdy as MA
+import MatrizAdyacencia as MA
 
 def FloydWarshall(graph):
     """

@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 25 09:10:59 2023
-
-@author: katjaoksana
-"""
-
 import networkx as nx
 import pandas as pd
 

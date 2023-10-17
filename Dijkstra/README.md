@@ -5,4 +5,4 @@ Además, deberás proporcionar un vértice de inicio de acuerdo a su nomenclatur
 
 **Ejemplo**
 
-_Dijkstra("path.csv",5)_
+_Dijkstra("Graph.csv",5)_

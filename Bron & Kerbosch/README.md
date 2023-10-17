@@ -4,4 +4,4 @@ al final del código en donde se llama a la función.
 
 **Ejemplo**
 
-_BronKerboschPivote("mono.csv")_
+_BronKerboschPivote("diezV.csv")_

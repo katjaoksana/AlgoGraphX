@@ -37,5 +37,5 @@ Para comenzar a utilizar los algoritmos de este repositorio, sigue estos pasos:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT.
 

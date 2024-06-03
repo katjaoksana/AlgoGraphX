@@ -39,7 +39,3 @@ Para comenzar a utilizar los algoritmos de este repositorio, sigue estos pasos:
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactar al mantenedor del repositorio en [katjaortiz.13@gmail.com].
-

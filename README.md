@@ -1,24 +1,24 @@
 # :pushpin: AlgoGraphX
 ![pic004](https://github.com/katjaoksana/AlgoGraphX/assets/141786397/00600ae1-0f8f-4709-bb02-20b9eaed4ff8)
-## Descripción
+## Description
 
-Este repositorio contiene una colección de algoritmos de grafos diseñados para resolver diversos problemas en redes complejas. Los algoritmos incluidos abordan la detección de comunidades, la búsqueda de la ruta más corta y la identificación de cubiertas de k-cliques. El objetivo de este repositorio es proporcionar implementaciones eficientes y fáciles de entender de estos algoritmos para su uso en investigación, enseñanza y aplicaciones prácticas.
+This repository contains a collection of graph algorithms designed to solve various problems in complex networks. The included algorithms address community detection, shortest path search, and identification of k-clique covers. The goal of this repository is to provide efficient and easy-to-understand implementations of these algorithms for use in research, teaching, and practical applications.
 
-## Contenido del Repositorio
+## Repository Contents
 
-- **Detección de Comunidades:** Algoritmos que identifican grupos de nodos en los que los nodos dentro del grupo están más densamente conectados entre sí que con los nodos fuera del grupo.
-- **Búsqueda de la Ruta más Corta:** Implementaciones de algoritmos como Dijkstra y Floyd-Warshall para encontrar la ruta más corta entre nodos en un grafo.
-- **Identificación de Cubiertas de k-Cliques:** Algoritmos para encontrar subconjuntos de nodos que forman cliques de tamaño k en el grafo.
-- **Datos de Prueba:** Conjuntos de datos que pueden ser utilizados para probar y validar los algoritmos.
+- **Community Detection:** Algorithms that identify groups of nodes where the nodes within the group are more densely connected to each other than to nodes outside the group.
+- **Shortest Path Search:** Implementations of algorithms like Dijkstra and Floyd-Warshall to find the shortest path between nodes in a graph.
+- **k-Clique Cover Identification:** Algorithms to find subsets of nodes that form cliques of size k in the graph.
+- **Test Data:** Datasets that can be used to test and validate the algorithms.
 
-## Para Quién Está Dirigido
+## Target Audience
 
-Este repositorio está dirigido a:
+This repository is intended for:
 
-- **Investigadores:** Que trabajan en el campo de las redes complejas y teoría de grafos.
-- **Estudiantes:** Que están aprendiendo sobre algoritmos de grafos y desean ver implementaciones prácticas.
-- **Desarrolladores:** Que necesitan soluciones basadas en grafos para sus proyectos y aplicaciones.
-- **Profesores:** Que buscan recursos educativos y ejemplos para enseñar teoría de grafos y algoritmos relacionados.
+- **Researchers:** Working in the field of complex networks and graph theory.
+- **Students:** Learning about graph algorithms and wanting to see practical implementations.
+- **Developers:** Needing graph-based solutions for their projects and applications.
+- **Teachers:** Looking for educational resources and examples to teach graph theory and related algorithms.
 
 <!-- ## Cómo Empezar
 
@@ -35,7 +35,7 @@ Para comenzar a utilizar los algoritmos de este repositorio, sigue estos pasos:
 3. Revisa la documentación y los ejemplos en los directorios correspondientes para entender cómo utilizar los algoritmos y aplicar los datos.
 -->
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia MIT.
+This project is licensed under the MIT License.
 

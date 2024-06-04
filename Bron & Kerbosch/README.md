@@ -1,7 +1,7 @@
-Los archivos **CSV** contienen las incidencias de un grafo. 
-Estos archivos los puedes utilizar como ejemplo para correr los programas, solamente ingresas el nombre del archivo CSV
-al final del código en donde se llama a la función.
+The **CSV** files contain the graph incidences.
+You can use these files as examples to run the programs by simply entering the CSV file name
+at the end of the code where the function is called.
 
-**Ejemplo**
+**Example**
 
 _BronKerboschPivote("diezV.csv")_

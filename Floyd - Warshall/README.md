@@ -1,14 +1,14 @@
-Los archivos **CSV** contienen las incidencias de un grafo y el peso asociado a la arista. 
-Estos archivos los puedes utilizar como ejemplo para correr los programas, solamente ingresas el nombre del archivo CSV
-al final del código en donde se llama a la función.
+The **CSV** files contain the incidences of a graph and the weight associated with the edge.
+You can use these files as examples to run the programs by simply entering the CSV file name
+at the end of the code where the function is called.
 
-**Ejemplos**
+**Example**
 
 _MatrizAdyacencia("graph.csv")_
 
 _FloydWarshall("graph.csv")_
 
-Para correr el código _FloydWarshall.py_, es necesario generar la matriz de adyacencia del archivo _CSV_.
-El código _MatrizAdyacencia.py_ genera dicha matriz, por lo que es necesario para el funcione el código _FloydWarshall.py_.
+To run the _FloydWarshall.py_ code, it's necessary to generate the adjacency matrix from the _CSV_ file.
+The _MatrizAdyacencia.py_ code generates this matrix, so it's necessary for the _FloydWarshall.py_ code to function.
 
-**Nota:** el código _MatrizAdyacencia.py_ funciona independientemente.
+**Note:** the _MatrizAdyacencia.py_ code works independently.
